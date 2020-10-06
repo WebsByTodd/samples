@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start:parcel": "parcel index.html",
+    "start": "concurrently npm:start:*"
+  },
+  "devDependencies": {
+    "concurrently": "^5.0.0",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "lodash.clonedeep": "4.5.0"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ]
+}

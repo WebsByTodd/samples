@@ -1,0 +1,6 @@
+NOTES.md
+node_modules
+.DS_STORE
+build/
+.cache/
+dist/
